@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @ReemJ23
-- 👀 I’m interested in mobile app development
-- 🌱 I’m currently learning Flutter
 
 
 <!---
